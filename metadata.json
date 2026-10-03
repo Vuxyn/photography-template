@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Vera — Contemporary Photography Studio",
+  "description": "Editorial photography studio specializing in weddings, portraits, celebrations, and commercial narratives. Captured with intention and timeless elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
